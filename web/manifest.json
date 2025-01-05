@@ -1,6 +1,6 @@
 {
-    "name": "application_1",
-    "short_name": "application_1",
+    "name": "solitaire",
+    "short_name": "solitaire",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
